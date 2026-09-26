@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+One day I'll put the effort to add something here, for now, I'm out.
 <!--
 **koustav286/koustav286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
